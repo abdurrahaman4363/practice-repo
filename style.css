@@ -1,0 +1,35 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    padding: 0;
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+
+   
+  
+}
+section{
+    display: flex;
+    padding: 3%;
+    width: 130%;
+    
+   
+    
+}
+span{
+    color: rgb(245, 58, 24);
+}
+.halfo-width{
+    width: 80%;
+    
+}
+.halfo-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(blue , red);
+    color: white;
+}
